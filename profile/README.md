@@ -3,9 +3,9 @@
 <p align="center">
   <b>Electronics engineering studio from Mendoza, Argentina.</b><br>
   Custom hardware, firmware and industrial design, from the first idea to series production.<br>
-  <a href="https://mateware.com.ar">Website</a> ·
-  <a href="https://mateware.com.ar/moti">MoTI</a> ·
-  <a href="https://mateware.com.ar/casos/">Case studies</a> ·
+  <a href="https://mateware.com.ar/en/">Website</a> ·
+  <a href="https://mateware.com.ar/en/moti/">MoTI</a> ·
+  <a href="https://mateware.com.ar/en/case-studies/">Case studies</a> ·
   <a href="https://www.linkedin.com/company/mateware/">LinkedIn</a> ·
   <a href="https://www.instagram.com/mateware.ar/">Instagram</a>
 </p>
@@ -36,13 +36,22 @@ We are a multidisciplinary team of electronics engineers and designers covering 
 
 ### MoTI — industrial monitoring & telemetry
 
-[MoTI](https://mateware.com.ar/moti) is our own IIoT platform: a 24/7 digital supervisor. A device connects to the sensors a plant already has (or ones we design for it) and streams data in real time to our cloud platform, where you get history, statistics and remote control of actuators.
+[MoTI](https://mateware.com.ar/en/moti/) is our own IIoT platform: a 24/7 digital supervisor. A device connects to the sensors a plant already has (or ones we design for it) and streams data in real time to our cloud platform, where you get history, statistics and remote control of actuators.
 
 - **Energy** — power alerts, consumption efficiency, metering per line, machine or area.
 - **Telemetry** — remote and scheduled control of pumps, motors and wells, including solar-powered LoRa links in the field.
 - **Manufacturing** — real-time production count, downtime logging by cause and instant OEE per machine, operator and work order.
 
 Non-invasive, connectivity-agnostic (Wi-Fi, cellular, LoRa, Ethernet), with predictive maintenance and an AI assistant that answers questions about your production and consumption.
+
+MoTI has reached **technology readiness level 8 (TRL 8)**.
+
+### Recognition
+
+- 🏆 **Pilares Startup Challenge Award 2026** — Logistics & Industry 4.0, for MoTI. Ministry of Production of Mendoza, Diario Los Andes and Polo TIC Mendoza. ([press](https://www.losandes.com.ar/economia/premio-pilares-startup-challenge-el-desarrollo-mateware-que-mejora-la-productividad-industrial-moti-n5997132))
+- 🏆 **Winner, 2026 Entrepreneurs Tournament** — City of Mendoza. ([press](https://prensa.ciudaddemendoza.gob.ar/2026/06/14/la-ciudad-celebro-el-demo-day-la-gran-final-del-torneo-de-emprendedores-2026/))
+- 🏅 **Honorable Mention for Technological Development** — FEM, 2026 Mendoza Young Entrepreneur Award. Federación Económica de Mendoza, with the support of CAME Joven. ([press](https://femza.org.ar/project/la-fem-reconocio-a-gregorio-bajda-fundador-de-valca-como-joven-empresario-mendocino-2026/))
+- 🏅 **2026 Argentine Entrepreneurship Contest** — provincial winners. National Secretariat of Industry, Commerce and SMEs and Ministry of Production of Mendoza. ([press](https://www.losandes.com.ar/economia/cuatro-empresas-mendocinas-fueron-seleccionadas-participar-del-concurso-emprendimiento-argentino-2026-n6008373))
 
 ### Industries
 
@@ -52,4 +61,4 @@ We work with companies in Argentina and the United States.
 
 ### Contact
 
-📧 [hola@mateware.com.ar](mailto:hola@mateware.com.ar) · 🌐 [mateware.com.ar](https://mateware.com.ar) · 📍 Mendoza, Argentina
+📧 [hello@mateware.com.ar](mailto:hello@mateware.com.ar) · 🌐 [mateware.com.ar](https://mateware.com.ar/en/) · 📍 Mendoza, Argentina
